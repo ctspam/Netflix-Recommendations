@@ -1,7 +1,7 @@
 
-# README for hackathon 2.0 #
+# README for Netflix Recommendations#
 
-This is the README file for the hackathon 2.0 app. It's a great place to write
+This is the README file for the Netflix Recommendations app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
 about the other files in this folder.
 
